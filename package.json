@@ -1,0 +1,12 @@
+{
+  "name": "project_work",
+  "version": "1.0.0",
+  "description": "ip whitelisting project for api gateway",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
